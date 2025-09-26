@@ -1,0 +1,12 @@
+{
+  "branches": [
+    {
+      "branch": "main",
+      "releaseType": "simple"
+    },
+    {
+      "branch": "release-1.4",
+      "releaseType": "simple"
+    }
+  ]
+}
