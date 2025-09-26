@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.5.0](https://github.com/fernandomendieta-facephi/demo-cici/compare/v1.4.0...v1.5.0) (2025-09-26)
+
+
+### Features
+
+* **test:** feat upgrade ([5dfa328](https://github.com/fernandomendieta-facephi/demo-cici/commit/5dfa32859ada80195888add165c28aa7df73e984))
+* **test:** feat upgrade ([223324a](https://github.com/fernandomendieta-facephi/demo-cici/commit/223324a69b74c66a6ae751d8d9413392a8ff611b))
+
+
+### Bug Fixes
+
+* **test:** fix upgrade ([d3dcf54](https://github.com/fernandomendieta-facephi/demo-cici/commit/d3dcf543a4f7093d59b9a49417fcfe108fb03fcc))
+* **test:** fix upgrade ([7a9f1a8](https://github.com/fernandomendieta-facephi/demo-cici/commit/7a9f1a8c9771d43c750cce514c768fbd68ad29b1))
+
 ## [1.4.0](https://github.com/fernandomendieta-facephi/demo-cici/compare/v1.3.0...v1.4.0) (2025-09-26)
 
 
