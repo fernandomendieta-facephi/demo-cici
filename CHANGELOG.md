@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/fernandomendieta-facephi/demo-cici/compare/v1.2.0...v1.3.0) (2025-09-26)
+
+
+### Features
+
+* **readme:** test new release ([a3bdc38](https://github.com/fernandomendieta-facephi/demo-cici/commit/a3bdc38c1a034d003e77fe3fcc2cb2006db92ced))
+
 ## [1.2.0](https://github.com/fernandomendieta-facephi/demo-cici/compare/v1.1.0...v1.2.0) (2025-09-26)
 
 
