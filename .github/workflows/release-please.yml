@@ -17,4 +17,5 @@ jobs:
         with:
           branch: main
           config-file: release-please-config.json
+          manifest-file: .release-please-manifest.json
           token: ${{ secrets.BACKPORT_TOKEN || github.token }}
